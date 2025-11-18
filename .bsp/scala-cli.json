@@ -1,0 +1,20 @@
+{
+  "name": "scala-cli",
+  "argv": [
+    "/opt/homebrew/bin/scala-cli",
+    "bsp",
+    "--json-options",
+    "/Users/niklaschristensen/Desktop/adpro/12-rl/.scala-build/ide-options-v2.json",
+    "--json-launcher-options",
+    "/Users/niklaschristensen/Desktop/adpro/12-rl/.scala-build/ide-launcher-options.json",
+    "--envs-file",
+    "/Users/niklaschristensen/Desktop/adpro/12-rl/.scala-build/ide-envs.json",
+    "/Users/niklaschristensen/Desktop/adpro/12-rl"
+  ],
+  "version": "1.8.5",
+  "bspVersion": "2.1.1",
+  "languages": [
+    "scala",
+    "java"
+  ]
+}

@@ -1,0 +1,61 @@
+2025.11.18 12:16:50 INFO  Started: Metals version 1.6.3 in folders '/Users/niklaschristensen/Desktop/adpro/12-rl' for client Visual Studio Code 1.105.1.[0m
+2025.11.18 12:16:51 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.[0m
+2025.11.18 12:16:53 INFO  no build target found for /Users/niklaschristensen/Desktop/adpro/12-rl/project.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.11.18 12:16:53 INFO  Wrote configuration file for ide in: /Users/niklaschristensen/Desktop/adpro/12-rl/.bsp/scala-cli.json[0m
+2025.11.18 12:16:53 INFO  time: ran 'scala-cli bspConfig' in 66ms[0m
+2025.11.18 12:16:53 INFO  Attempting to connect to the build server...[0m
+2025.11.18 12:16:53 INFO  Running BSP server List(/opt/homebrew/bin/scala-cli, bsp, --json-options, /Users/niklaschristensen/Desktop/adpro/12-rl/.scala-build/ide-options-v2.json, --json-launcher-options, /Users/niklaschristensen/Desktop/adpro/12-rl/.scala-build/ide-launcher-options.json, --envs-file, /Users/niklaschristensen/Desktop/adpro/12-rl/.scala-build/ide-envs.json, /Users/niklaschristensen/Desktop/adpro/12-rl)[0m
+2025.11.18 12:16:53 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/niklaschristensen/Desktop/adpro/12-rl/.metals/bsp.trace.json or /Users/niklaschristensen/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+2025.11.18 12:16:54 INFO  BSP server: Starting compilation server[0m
+Nov 18, 2025 12:16:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3
+2025.11.18 12:16:55 INFO  no build target found for /Users/niklaschristensen/Desktop/adpro/12-rl/project.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.11.18 12:16:55 INFO  no build target found for /Users/niklaschristensen/Desktop/adpro/12-rl/project.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+Nov 18, 2025 12:16:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7
+Nov 18, 2025 12:16:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8
+2025.11.18 12:16:55 INFO  no build target found for /Users/niklaschristensen/Desktop/adpro/12-rl/project.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.11.18 12:16:55 INFO  no build target found for /Users/niklaschristensen/Desktop/adpro/12-rl/project.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.11.18 12:16:55 INFO  no build target found for /Users/niklaschristensen/Desktop/adpro/12-rl/project.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+Nov 18, 2025 12:16:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10
+Nov 18, 2025 12:16:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11
+2025.11.18 12:16:55 INFO  no build target found for /Users/niklaschristensen/Desktop/adpro/12-rl/project.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.11.18 12:16:56 INFO  BSP server: Checking https://repo1.maven.org/maven2/org/scalacheck/scalacheck_3/[0m
+2025.11.18 12:16:56 INFO  BSP server: Checked https://repo1.maven.org/maven2/org/scalacheck/scalacheck_3/[0m
+2025.11.18 12:16:56 INFO  BSP server: Checking https://repo1.maven.org/maven2/org/scalacheck/scalacheck_3/maven-metadata.xml[0m
+2025.11.18 12:16:56 INFO  BSP server: Checked https://repo1.maven.org/maven2/org/scalacheck/scalacheck_3/maven-metadata.xml[0m
+2025.11.18 12:16:56 INFO  BSP server: Checking https://repo1.maven.org/maven2/org/scalactic/scalactic_3/[0m
+2025.11.18 12:16:56 INFO  BSP server: Checked https://repo1.maven.org/maven2/org/scalactic/scalactic_3/[0m
+2025.11.18 12:16:56 INFO  BSP server: Checking https://repo1.maven.org/maven2/org/scalactic/scalactic_3/maven-metadata.xml[0m
+2025.11.18 12:16:56 INFO  BSP server: Checked https://repo1.maven.org/maven2/org/scalactic/scalactic_3/maven-metadata.xml[0m
+2025.11.18 12:16:56 INFO  time: Connected to build server in 2.96s[0m
+2025.11.18 12:16:56 INFO  Connected to Build server: scala-cli v1.8.5[0m
+2025.11.18 12:16:57 INFO  compiling 12-rl_6255f62b2c (2 scala sources)[0m
+2025.11.18 12:16:59 INFO  time: Imported build in 3.01s[0m
+2025.11.18 12:17:02 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.[0m
+Nov 18, 2025 12:17:02 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 16
+2025.11.18 12:17:04 INFO  time: indexed workspace in 4.32s[0m
+2025.11.18 12:17:24 INFO  compiling 12-rl_6255f62b2c (1 scala source)[0m
+2025.11.18 12:17:24 INFO  time: compiled 12-rl_6255f62b2c in 0.75s[0m
+2025.11.18 12:17:27 INFO  compiling 12-rl_6255f62b2c (1 scala source)[0m
+2025.11.18 12:17:27 INFO  time: compiled 12-rl_6255f62b2c in 0.51s[0m
+2025.11.18 12:17:34 INFO  compiling 12-rl_6255f62b2c (1 scala source)[0m
+2025.11.18 12:17:34 INFO  time: compiled 12-rl_6255f62b2c in 0.23s[0m
+2025.11.18 12:17:59 INFO  compiling 12-rl_6255f62b2c (1 scala source)[0m
+2025.11.18 12:17:59 INFO  time: compiled 12-rl_6255f62b2c in 0.41s[0m
+2025.11.18 12:18:06 INFO  compiling 12-rl_6255f62b2c (1 scala source)[0m
+2025.11.18 12:18:06 INFO  time: compiled 12-rl_6255f62b2c in 0.35s[0m
+2025.11.18 12:18:45 INFO  compiling 12-rl_6255f62b2c (1 scala source)[0m
+2025.11.18 12:18:45 INFO  time: compiled 12-rl_6255f62b2c in 0.32s[0m
+2025.11.18 12:18:54 INFO  compiling 12-rl_6255f62b2c (1 scala source)[0m
+2025.11.18 12:18:54 INFO  time: compiled 12-rl_6255f62b2c in 0.36s[0m
+Nov 18, 2025 12:19:17 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Nov 18, 2025 12:19:17 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Nov 18, 2025 12:19:18 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
